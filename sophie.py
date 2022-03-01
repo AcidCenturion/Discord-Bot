@@ -1,6 +1,6 @@
 """
 Author: Michael L
-Last Updated: 12/15/21
+Last Updated: 2/28/22
 Filename: My first Discord bot
 """
 
