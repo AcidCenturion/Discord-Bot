@@ -481,4 +481,4 @@ async def dc(ctx):
 '''
 
 #token
-bot.run('ODMxNzgyNzMyNTg4Nzc3NTI0.YHaQCQ.ukKGxcEEQHk8JZ04cgwNtEuwFIA')
+bot.run(INSERT_BOT_TOKEN)
